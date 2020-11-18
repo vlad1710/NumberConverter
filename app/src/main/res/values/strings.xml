@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Converter</string>
+    <string name="enter_number">Enter number</string>
+    <string name="hexadecimal">Hexadecimal:</string>
+    <string name="octal">Octal:</string>
+    <string name="convert">Convert</string>
+    <string name="binary">Binary:</string>
+</resources>
